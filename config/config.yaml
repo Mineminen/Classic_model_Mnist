@@ -1,0 +1,10 @@
+cwd: ???
+model_name: ResNet34
+epochs: 12
+batch_size: 64 #ResNet101/152(32) 其他(64)
+learning_rate: 0.001  #VGG19、22(0.0001) 其他(0.001）
+resizex: 224  #MNIST 数据集中的原始图像大小是 28x28 像素(AlexNet) FullyConnectedNN(28*28 像素)
+resizey: 224  #VGG16/19/22(32*32 像素) ResNet34/101/152(224*224 像素)
+predict_open: 10 #预测图像起点
+predict_close: 20
+

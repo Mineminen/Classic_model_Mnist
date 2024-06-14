@@ -1,0 +1,9 @@
+cwd: ???
+model_name: FullyConnectedNN
+epochs: 12
+batch_size: 64
+learning_rate: 0.001
+resizex: 28
+resizey: 28
+predict_open: 10
+predict_close: 20

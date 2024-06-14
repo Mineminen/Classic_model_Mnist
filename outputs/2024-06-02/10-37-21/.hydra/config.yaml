@@ -1,0 +1,9 @@
+cwd: ???
+model_name: VGG19
+epochs: 12
+batch_size: 64
+learning_rate: 0.001
+resizex: 64
+resizey: 64
+predict_open: 10
+predict_close: 20

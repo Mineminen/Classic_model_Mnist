@@ -1,0 +1,9 @@
+cwd: ???
+model_name: ResNet152
+epochs: 12
+batch_size: 32
+learning_rate: 0.001
+resizex: 224
+resizey: 224
+predict_open: 10
+predict_close: 20
