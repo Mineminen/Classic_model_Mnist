@@ -18,7 +18,7 @@
 
 **3.****一些参考的链接**
 
-# ***\*1.\*******\*PyTorch实现的ResNet50、ResNet101和ResNet152\****
+# **\*1.\** ***\*PyTorch实现的ResNet50、ResNet101和ResNet152\****
 
 https://blog.csdn.net/shanglianlm/article/details/86376627
 
