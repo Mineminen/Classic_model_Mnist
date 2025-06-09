@@ -22,7 +22,7 @@
 
 https://blog.csdn.net/shanglianlm/article/details/86376627
 
- ![](./png/图片3.png)
+
 
 **2.** ***\*VGG11、VGG13、VGG16、VGG19网络结构图\****
 
